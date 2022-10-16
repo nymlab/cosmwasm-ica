@@ -1,0 +1,2 @@
+c6e093705860e977c8b449a6c291f06420c61790a45f3d94b17ea8f07973e524  target/wasm32-unknown-unknown/release/cw1_whitelist.wasm
+b9e10fe723977947c2a1ccbfe21d6a78410f4aae917f5105990bcad0f0f6463f  target/wasm32-unknown-unknown/release/ica_host.wasm
