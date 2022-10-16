@@ -1,5 +1,13 @@
 [workspace]
-members = [ "packages/*"]
+members = [ "packages/*", "contracts/*" ]
+
+[profile.release.package.cw1-whitelist]
+codegen-units = 1
+incremental = false
+
+[profile.release.package.ica-host]
+codegen-units = 1
+incremental = false
 
 [profile.release]
 rpath = false
